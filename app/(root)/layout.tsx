@@ -6,8 +6,8 @@ export  default function  RootLayout({
         children:ReactNode
     }){
     return <div>
-        navbar
+        
         {children}
-        footer
+        
     </div>
 }

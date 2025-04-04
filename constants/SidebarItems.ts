@@ -16,7 +16,7 @@ export const items=[
     },
     {
         label: "Recordings",
-        route: "/recordings",
+        route: "/recording",
         imgUrl: "icons/Video.svg"
     },
     {
